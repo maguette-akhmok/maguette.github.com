@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    }
+    
+    
+    
+    
+    .menu {
+        overflow: hidden;
+        font-size: 20px;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    li :hover{
+        background-color:#3a271694; 
+    }
+    nav>ul{
+        margin: 30px 2px 2px 2px; 
+    }
+    nav>ul>li{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        margin: auto 33px auto 33px;
+        display: inline-block;
+        padding: 1px;
+        border: 1px;
+    }
+    #header{
+        text-align: center;
+        overflow: hidden;
+        width: 100%;
+        background-image: url(../LPTI119_DIACK_CheikhMohamedTidiane_DIAO_Aida/PicsArt_03-20-01.26.58.jpg);
+        background-size: cover;
+    }
+    img.logo {
+        width: 20%;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    #content{
+        width: 100%;
+        background-image: url(../LPTI119_DIACK_CheikhMohamedTidiane_DIAO_Aida/istockphoto-512605904-640x640.jpg);
+        background-size: contain;
+    }
+    #texte{
+        margin: 4% 10% 0 10%;
+        border-radius: 1%;
+        background-color: #3a2716a9;
+    }
+    img.presentationdutemple, img.entree, img.etal, img.interieur{
+        text-align: center;
+        height: 60%;   
+        display: block;
+        margin: 3% auto auto auto;
+    }
+    h3{
+        margin: 10px auto 10px auto;
+        text-align: center;
+        color:white;;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    p{
+        font-size: 15px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: white;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+    h1{
+        text-align: center;
+        width: 20%;
+        margin: auto 20% 20px 40%;
+        border: 4px dashed #3a2716;
+        color: #3a2716;
+        font-family: 'Oswald',Arial,sans-serif;
+    }
+    
+    
+    
+    
+    
+    
+    
+    .citation{
+        float: right;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-style: italic;
+        margin: 10% 2% 10% 2%;
+    }
+    form {
+        text-align: center;
+        float: left;
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    label {
+        color: white;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin:1px 20% 1px 20%;
+        display: block;
+    }
+    #footer{
+        background-image: url(../LPTI119_DIACK_CheikhMohamedTidiane_DIAO_Aida/19066.jpg);
+        background-size: cover;
+    }
+    .footercontainer{
+        background-color:#3a2716a9;
+        display: inline-block;
+        width: 100%;
+    }
+    input[type=submit]{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin:5px auto 3px 30px;
+        border-radius: 5px; 
+        width: 100px;
+        margin: 2px 5px 2px 5px;
+        box-shadow: 1px 1px 1px #000000a1;
+        cursor: pointer;
+    }
+    svg{
+        margin:10px 20% 10px 20%;
+    }
+    input, textarea{
+        padding: 3px;
+        border: 1px solid #002B3B;
+        width: 200px;
+        border-radius: 5px
+    }
+    q{
+        color: white;
+        font-size: 25px;
+    }
